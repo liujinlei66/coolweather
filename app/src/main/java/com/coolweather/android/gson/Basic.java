@@ -2,7 +2,7 @@ package com.coolweather.android.gson;
 
 import com.google.gson.annotations.SerializedName;
 
-class Basic {
+public class Basic {
 
     @SerializedName("city")
     public String cityName;

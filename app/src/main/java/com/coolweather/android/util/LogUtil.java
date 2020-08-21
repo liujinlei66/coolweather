@@ -1,4 +1,4 @@
-package com.coolweather.android;
+package com.coolweather.android.util;
 
 import android.util.Log;
 
